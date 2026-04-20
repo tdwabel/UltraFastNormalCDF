@@ -37,8 +37,8 @@ Test setup: 2000 points in `[-10, 10]`, average over 10 runs.
 
 ## 🚀 Quick Usage
 ```python
-from your_module import norm_cdf
+from UltraFastNormalCDF import norm_cdf
 
-print(norm_cdf(0.0))     # Output: 0.5
-print(norm_cdf(-1.0))    # Output: ~0.158655
-print(norm_cdf(2.0))     # Output: ~0.977250
+print(norm_cdf(0.0))    
+print(norm_cdf(-1.0))    
+print(norm_cdf(2.0))    
