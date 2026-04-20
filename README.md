@@ -41,4 +41,17 @@ from UltraFastNormalCDF import norm_cdf
 
 print(norm_cdf(0.0))    
 print(norm_cdf(-1.0))    
-print(norm_cdf(2.0))    
+print(norm_cdf(2.0))
+
+💰 Commercial Support & Licensing
+This implementation is open for **personal and non-commercial use only**.
+If you are interested in:
+- Commercial licensing
+- Customized optimization for specific use cases (e.g., high-frequency trading, Monte Carlo simulation)
+- Consulting, integration, or performance tuning services
+Please reach out to discuss pricing and terms.
+All inquiries will be handled on a case-by-case basis.
+
+📧 Email: 13025178270@163.com
+📱 WeChat:13025178270
+📞 Phone: +86 13025178270
