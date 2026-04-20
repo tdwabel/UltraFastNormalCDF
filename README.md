@@ -44,7 +44,6 @@ print(norm_cdf(-1.0))
 print(norm_cdf(2.0))
 
 💰 Commercial Support & Licensing
-This implementation is open for **personal and non-commercial use only**.
 If you are interested in:
 - Commercial licensing
 - Customized optimization for specific use cases (e.g., high-frequency trading, Monte Carlo simulation)
